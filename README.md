@@ -13,4 +13,4 @@ Deepfake Detection & Identity Verification System
 - OpenCV, MediaPipe, ArcFace
 
 ## Demo
-(Add link if hosted)
+http://localhost:5173/
